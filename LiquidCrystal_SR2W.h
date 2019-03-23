@@ -1,10 +1,22 @@
 // ---------------------------------------------------------------------------
 // Created/Adapted by Bill Perry 2012-03-16
-// Copyright 2012 - Under creative commons license 3.0:
-//        Attribution-ShareAlike CC BY-SA
+// Copyright (C) - 2018
 //
-// This software is furnished "as is", without technical support, and with no 
-// warranty, express or implied, as to its usefulness for any purpose.
+//    This program is free software: you can redistribute it and/or modify
+//    it under the terms of the GNU General Public License as published by
+//    the Free Software Foundation, either version 3 of the License, or
+//    any later version.
+//
+//    This program is distributed in the hope that it will be useful,
+//    but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//    GNU General Public License for more details.
+//
+//    You should have received a copy of the GNU General Public License v3.0
+//    along with this program.
+//    If not, see <https://www.gnu.org/licenses/gpl-3.0.en.html>.
+// 
+// ---------------------------------------------------------------------------
 //
 // @file LiquidCrystal_SR2W.h
 // Connects a hd44780 LCD using 2 pins from the Arduino, via an 8-bit 
